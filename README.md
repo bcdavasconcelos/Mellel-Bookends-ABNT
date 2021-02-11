@@ -14,6 +14,11 @@ Neste repositório você encontra os seguintes recursos para estes programas:
 3. Uma demonstração de como utilizar o Mellel em conjunto com o Bookends.
 
 
+## Observações
+
+- Para que arquivo do Mellel funcione corretamente, é preciso instalar as fontes [Alegreya](https://fonts.google.com/specimen/Alegreya) e [Alegreya Sans](https://fonts.google.com/specimen/Alegreya+Sans).
+- Recomendo utilizar o Mellel em inglês. Apesar de estar disponível em português, a tradução do programa é pobre e tem muitos erros. Notifiquei a empresa em 2019, mas nada foi feito até o presente momento (2021/02).
+
 ---
 
 
