@@ -1,4 +1,4 @@
-<a href="https://zenodo.org/badge/latestdoi/338065404"><img src="https://zenodo.org/badge/338065404.svg" alt="DOI"></a>
+<p style="text-align:center"><a href="https://zenodo.org/badge/latestdoi/338065404"><img src="https://zenodo.org/badge/338065404.svg" alt="DOI"></a></p>
 
 
 # Mellel e Bookends (ABNT)
